@@ -25,7 +25,7 @@
 
 -> After the initial analysis of the data, i figured out there were not proper columns which could be useful. I added few columns by extracting the already provided data . for example I extracted the day week and month from the started_at columns
 once again checked for null values and started the analysis process
-Your answer cannot be more than 10000 characters.
+
 
 
 6) In the analyze phase of your analysis, you wrote a summary of your analysis. According to the Case Study Roadmap, this summary should discuss organizing and formatting your data. In addition, it should detail any surprises, trends, or relationships you discovered. Lastly, you should summarize how these insights helped you answer your questions. Take a moment to review your summary now. How can you improve it in order to highlight your analysis process in a more compelling way?
